@@ -1,1 +1,1 @@
-<img src="./og-image.svg"/>
+<img src="../og-image.svg"/>
